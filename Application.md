@@ -30,10 +30,10 @@ Your tasks
 - Get the test coverage to 94% or above
 - There are certain SQL tests present inside `tests/SQL/`. You have to write SQL in following files:
     - count_grade_A_assignments_by_teacher_with_max_grading.sql
-    - number_of_graded_assignments_for_each_student.sql
+    - number_of_assignments_per_state.sql
 - Optionally, Dockerize your application by creating a Dockerfile and a docker-compose.yml file, providing clear documentation on building and running the application with Docker, to stand out in your submission
 
-***Once you are done with your task, please use [this form](https://forms.gle/TbpVhYojG84cyUD77) to complete your submission.***
+***Once you are done with your task, please use [this form](https://forms.gle/dJLNMyBmBCJSv6EH7) to complete your submission.***
 
 You will hear back within 48 hours from us via email. 
 
